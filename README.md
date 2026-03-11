@@ -6,7 +6,7 @@ O objetivo do projeto é implementar uma lógica que classifica um personagem (h
 
 ---
 
-## 🚀 O que faz este projeto
+## O que faz este projeto
 
 Este programa em **Python**:
 
@@ -17,7 +17,7 @@ Este programa em **Python**:
 
 ---
 
-## 🧠 Conceitos aplicados
+## Conceitos aplicados
 
 Este pequeno projeto foi desenvolvido para praticar:
 
@@ -28,7 +28,7 @@ Este pequeno projeto foi desenvolvido para praticar:
 
 ---
 
-## 🧪 Como testar
+## Como testar
 
 1. Clone o repositório:
    ```bash
